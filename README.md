@@ -12,7 +12,7 @@ The overview of the statistical analysis is usage of citi bike peak around rush 
 - From User Trips by Gender by Weekday, it varies by the day for male to rent a citi bike. The most popular day is Thursday.
 
 ## Summary:
-In generalm there are more male citi bike riders. 
+In general, there are more male citi bike riders. 
 - We could have another table to break down the unknow gender to futher analysis, since there are more than 34,000 records.
 - We have draw a map by the coordinate to analysis which is the most popular neighbourhood for renting citi bikes.
 
