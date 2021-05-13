@@ -4,11 +4,11 @@ The overview of the statistical analysis is usage of citi bike peak around rush 
 
 ## Results:
 - From Checked Out Time for Users, the most frequent trip duration is 5 minutes.
-![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Checked%20Out%20Times%20by%20Gender.png)
+![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Checked%20Out%20Times%20by%20Users.png)
 
 - From Checked Out Times by Gender, even though the gender difference, the most commmon trip duration is 5 minutes.
 - From Checked Out Times by Gender, males rent citi bikes 3.2 times more than females.
-![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Checked%20Out%20Times%20for%20Users.png)
+![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Checked%20Out%20Times%20for%20Gender.png)
 
 - From Trips by Weekday per Hour, the most popular time to rent citi bike is around rush hour, around 8am and 5pm.
 ![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Trips%20by%20Weekday%20per%20Hour.png)
