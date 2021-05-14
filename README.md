@@ -25,6 +25,7 @@ In general, there are more male citi bike riders.
 
 Here's the link to this Workbook on Tableau Online: 
 https://prod-useast-b.online.tableau.com/#/site/verafan/workbooks/97244/views
+https://prod-useast-b.online.tableau.com/#/site/verafan/workbooks/97244?:origin=card_share_link
 ![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Bike%20Dashboard.PNG)
 
 
