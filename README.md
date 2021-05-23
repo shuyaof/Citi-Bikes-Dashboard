@@ -24,7 +24,7 @@ In general, there are more male citi bike riders.
 - We could draw a map by the longitude and latitude coordinates to analysis which is the most popular neighbourhood for renting citi bikes.
 
 Here's the link to this Workbook on Tableau Online: 
-https://prod-useast-b.online.tableau.com/#/site/verafan/workbooks/97244?:origin=card_share_link
+https://public.tableau.com/profile/vera1186#!/
 
 ![alt text](https://github.com/shuyaof/Citi-Bikes-Dashboard/blob/main/Resources/Bike%20Dashboard.PNG)
 
